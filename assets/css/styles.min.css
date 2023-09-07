@@ -440,7 +440,7 @@ input:focus::placeholder {
 	background-size: cover !important;
 	background-repeat: no-repeat;
 	background-position: 50%;
-	max-height: 800px !important;
+	/* max-height: 800px !important; */
 }
 .swiper-slide img {
 	display: block;
