@@ -31,6 +31,7 @@ var swiperSlider = function () {
     slidesPerView: 1,
     speed: 2000,
     centerInsufficientSlides: true,
+    with: 1020,
     autoplay: {
       delay: 10000
     },
