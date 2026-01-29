@@ -433,7 +433,7 @@ input:focus::placeholder {
 	position: absolute;
 }
 .swiper {
-	max-width: 1050px;
+	max-width: 1150px;
 	height: 100vh;
 }
 
